@@ -51,7 +51,7 @@ O jogo tem o um objetive simples, você deve escapar desse lugar e, para isso, d
   
     Enter - Pressione para começar a jogar ou para renascer caso o inimigo tenha te encontrado.
     
-    Q or Esc - Pressione para fechar o jogo.
+    Q ou Esc - Pressione para fechar o jogo.
     
     A - Segure para ir para a esquerda.
     
