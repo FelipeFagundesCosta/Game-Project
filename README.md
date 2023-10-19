@@ -11,7 +11,7 @@ If you are an english speaker, try the EN version of the game. Soon I will be tr
 The game has a simple objective, you have to escape this place and to do so you must find ways to get more powerfull while hiding from the enemy.
 
 
-Controlls:
+# Controlls:
 
   Standard:
     
@@ -37,19 +37,33 @@ Controlls:
 # PT-BR
 
 Jogo desenvolvido em Python utilizando a biblioteca Pyxel para um trabalho da faculdade.
+
 Totas as imagens e scripts foram feitos por mim.
+
 Se você é um falante de português, teste a versão PT-BR. Em brece eu irei fazer uma versão do código totalmente em PT-BR.
+
 O jogo tem o um objetive simples, você deve escapar desse lugar e, para isso, deve encontrar maneiras de adquirir mais poderes enquanto se esconde do inimigo.
 
-Controles:
+
+# Controles:
+
   Padrão:
+  
     Enter - Pressione para começar a jogar ou para renascer caso o inimigo tenha te encontrado.
+    
     Q or Esc - Pressione para fechar o jogo.
+    
     A - Segure para ir para a esquerda.
+    
     D - Segure para ir para a direita.
+    
     W - Segure para ir para cima em uma escada.
+    
     Shift - Segure para correr. -tenha cuidado, o inimigo escuta se você chegar muito perto-
 
+
   Poderes (você precisa desbloquear esses):
+  
     Ctrl - Segure para ficar pequena.
+    
     E - Pressione para ficar invisível por 5 segundos, então espere 6.5 segundos para fazer novamente.
