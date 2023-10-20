@@ -15,7 +15,7 @@ The game has a simple objective, you have to escape this place and to do so you 
 
   Standard:
     
-  Enter - Press to start playing and to respawn if the enemy has found you.
+  °Enter - Press to start playing and to respawn if the enemy has found you.
     
   Q or Esc - Press to close the game.
     
