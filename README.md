@@ -9,6 +9,11 @@ All images and scripts were made entirely by me.
 The game has a simple objective, you have to escape this place and to do so you must find ways to get more powerfull while hiding from the enemy.
 
 
+# Playing and editing:
+
+If you just want to play the game, I recommend you to down
+
+
 # Controlls:
 
   Standard:
