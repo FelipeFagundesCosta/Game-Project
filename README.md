@@ -11,7 +11,18 @@ The game has a simple objective, you have to escape this place and to do so you 
 
 # Playing and editing:
 
-If you just want to play the game, I recommend you to down
+If you just want to play the game, you can download one of the files that are out of any folder. I recommend you to download either the .exe to run the game
+in you own machine, or download the .html file to run it in your browser. 
+
+Otherwise, if you would like to run it using the Pyxel library, run the following command in the terminal in the same folder where the file "Don't_let_he_see_you.pyxapp":
+
+    pyxel run Don't_let_he_see_you.pyxapp
+
+To edit the game, you can find the source code in the Source folder, there is the Python file and also the assets of the game in the file ASSETS.pyxres.
+
+To access and edit the assets file, run the following command in your terminal in the same folder where the the file ASSETS.pyxres is:
+
+    pyxel edit ASSETS.pyxres
 
 
 # Controlls:
