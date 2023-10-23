@@ -365,7 +365,7 @@ class App:
         self.is_shaking = False
         self.spikes_y = 220
            
-        py.init(screen_x,screen_y,'Não deixe que ele te veja',60)
+        py.init(screen_x,screen_y,"Don't let he see you",60)
         self.scene = scene_start
         py.load("ASSETS.pyxres")
         
@@ -380,7 +380,6 @@ class App:
                 self.vilain.x = vilain_x
                           
     def update(self):
-        print(self.main.power_invi, self.scene)
         if py.btn(py.KEY_Q):
             py.quit()
             
@@ -809,8 +808,8 @@ class App:
                 py.blt(314,460,2,59,28,92,26,7)
                 py.blt(64,460,2,0,77,130,24,7)
         elif now_1+3000 <= py.frame_count and now_1+3200 >= py.frame_count:
-            py.rect(self.main.x-22,self.main.y-130,154,34,7)
-            py.rect(self.main.x-20,self.main.y-128,150,30,0)
+            py.rect(self.main.x-22,self.main.y-130,170,34,7)
+            py.rect(self.main.x-20,self.main.y-128,166,30,0)
             py.text(self.main.x-10,self.main.y-118,'hm... must have returned back upstairs', 7)
             
     def draw_stage_3(self):
@@ -870,8 +869,8 @@ class App:
             py.rect(self.main.x-35,self.main.y-110,120,30,0)
             py.text(self.main.x-25,self.main.y-100,'I AM TIRED OF YOU!', 7)
         elif now_2+450 >= py.frame_count:
-            py.rect(self.main.x-37,self.main.y-112,124,34,7)
-            py.rect(self.main.x-35,self.main.y-110,120,30,0)
+            py.rect(self.main.x-37,self.main.y-112,150,34,7)
+            py.rect(self.main.x-35,self.main.y-110,146,30,0)
             py.text(self.main.x-25,self.main.y-100,'You will not escape from here.', 7)
         
     def draw_death(self):
