@@ -11,10 +11,7 @@ The game has a simple objective, you have to escape this place and to do so you 
 
 # Playing and editing:
 
-If you just want to play the game, you can download one of the files that are out of any folder. I recommend you to download either the .exe to run the game
-in you own machine, or you can just open the following link and play the game in your browser. 
-
-    https://kitao.github.io/pyxel/wasm/launcher/?run=FelipeFagundesCosta.Game-Project.Source.Don't_let_he_see_you
+If you just want to play the game, you can do so by clicking [here](https://kitao.github.io/pyxel/wasm/launcher/?run=FelipeFagundesCosta.Game-Project.Source.Don't_let_he_see_you) or you can download one of the files that are out of any folder. I recommend you to download the .exe to run the game in you own machine. 
 
 Otherwise, if you would like to run it using the Pyxel library, run the following command in the terminal in the same folder where the file "Don't_let_he_see_you.pyxapp":
 
