@@ -365,7 +365,7 @@ class App:
         self.is_shaking = False
         self.spikes_y = 220
            
-        py.init(screen_x,screen_y,"Don't let he see you",60)
+        py.init(screen_x,screen_y, title="Don't let he see you", fps=60)
         self.scene = scene_start
         py.load("ASSETS.pyxres")
         
